@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="api.promilo.test.UserMgmt">
+      <class name="api.promilo.test.UserMgmt2">
         <methods>
-          <include name="test16"/>
+          <include name="test46"/>
         </methods>
-      </class> <!-- api.promilo.test.UserMgmt -->
+      </class> <!-- api.promilo.test.UserMgmt2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

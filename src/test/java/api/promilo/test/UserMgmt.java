@@ -376,7 +376,7 @@ public class UserMgmt{
 		Response response = httpRequest.request(Method.POST,"/api/v1/usermgmt/resetPassword");
 		
 		int statusCode = response.statusCode();
-		Assert.assertEquals(statusCode,200, "Status code not matching");
+		Assert.assertEquals(statusCode,201, "Status code not matching");
 		String message = response.jsonPath().get("data.message");
 		System.out.println(message);
 	}

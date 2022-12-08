@@ -3,9 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="api.promilo.test.UserMgmt">
+      <class name="api.promilo.test.UserMgmt2">
       <methods>
-      <include name="test16"></include>
+      <include name="test46"/> 
+      <include name="test47"/>   
       </methods>
       </class>
     </classes>
