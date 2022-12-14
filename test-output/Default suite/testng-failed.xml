@@ -5,7 +5,16 @@
     <classes>
       <class name="api.promilo.test.UserMgmt2">
         <methods>
+          <include name="test46"/>
+          <include name="test47"/>
+          <include name="test39"/>
+          <include name="test28"/>
+          <include name="test27"/>
+          <include name="test29"/>
+          <include name="test41_45" invocation-numbers="0 2"/>
           <include name="test31_38" invocation-numbers="0 1 7"/>
+          <include name="test40"/>
+          <include name="test30"/>
         </methods>
       </class> <!-- api.promilo.test.UserMgmt2 -->
     </classes>
