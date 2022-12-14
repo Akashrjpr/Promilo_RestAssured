@@ -1,2 +1,3 @@
 URL http://43.205.225.206:8000
 id 2
+auth eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Niwic2lnbnVwVHlwZSI6Im5vcm1hbCIsInJvbGVJZCI6MSwiZXhwaXJlc0luIjoiMzBkIiwiaWF0IjoxNjcxMDA5NTg5fQ.-i6wDcZZNi-Ma808DZhbWJ5fqGsLypX8lzLfcMEgsIk
